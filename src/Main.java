@@ -4,5 +4,10 @@ public class Main {
       sl.moon="1";
       sl.planets="2";
       sl.sun="1";
+
+      Sun sun=new Sun();
+      sun.color="red";
+      sun.heat="165453653f";
+      sun.temperature="154643";
     }
 }
